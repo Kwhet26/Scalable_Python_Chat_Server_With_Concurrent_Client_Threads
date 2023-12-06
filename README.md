@@ -1,0 +1,2 @@
+# Python_Chat_Server
+ Crafted a scalable chat server in Python with TCP sockets and implemented client-side threading for concurrent communication. The project employs the select module to efficiently manage and select active connections. Users can access the server via a shell or terminal, and the server dynamically scales to accommodate new client connections. This undertaking showcases adeptness in network programming, threading, and socket-based communication for a robust chat server.
